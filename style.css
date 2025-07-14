@@ -237,6 +237,7 @@ input {
     }
 
     header {
+        width:90%;
         flex-direction: column;
         height: auto;
         padding: 10px;
@@ -288,7 +289,7 @@ input {
         display: block;
     }
     button,  #resetBtn {
-        margin-right: 120px;
+        margin-right: auto;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
