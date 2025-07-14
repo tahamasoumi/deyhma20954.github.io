@@ -286,11 +286,11 @@ input {
     }
     #gh{
         padding: 10px 15px;
-        font-size: 1.5rem;
+        font-size: 2rem;
         display: block;
     }
     button,  #resetBtn {
-        margin-right: 120px;
+        margin-right: 100px;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
@@ -357,7 +357,7 @@ input {
         font-size: 1.5rem;
     }
      #gh{
-         font-size:1.3rem;
+         font-size:1.5rem;
      }
 
     button, #resetBtn {
