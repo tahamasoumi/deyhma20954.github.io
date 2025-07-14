@@ -311,6 +311,7 @@ input {
     #image {
         width: 100%;
         display: block;
+        margin-bottom:20px ;
         height:300px;
     }
 
