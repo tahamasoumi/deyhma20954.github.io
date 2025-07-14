@@ -289,8 +289,14 @@ input {
         font-size: 2rem;
         display: block;
     }
-    button,  #resetBtn {
-        margin-right:77px;
+    button{
+        margin-right:78px;
+        padding: 10px 15px;
+        font-size: 0.9rem;
+        display: block;
+    }
+    #resetBtn {
+        margin-right:75px;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
