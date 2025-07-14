@@ -87,7 +87,7 @@ nav > a {
 }
 
 button {
-    margin-right: auto;
+    margin-right: 260px;
     font-family: vazir;
     border: none;
     border-radius: 20px;
@@ -109,7 +109,7 @@ h1 {
 }
 
 #resetBtn {
-    margin-right: auto;
+    margin-right: 550px;
     margin-bottom: 10px;
 }
 
@@ -290,7 +290,7 @@ input {
         display: block;
     }
     button,  #resetBtn {
-        margin-right:60px;
+        margin-right:70px;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
