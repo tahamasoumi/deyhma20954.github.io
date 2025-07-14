@@ -234,10 +234,11 @@ input {
 
     #background {
         height: 400px;
+        width:95%;
     }
 
     header {
-        width:90%;
+        width:95%;
         flex-direction: column;
         height: auto;
         padding: 10px;
@@ -289,7 +290,7 @@ input {
         display: block;
     }
     button,  #resetBtn {
-        margin-right: auto;
+        margin-right: 120px;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
