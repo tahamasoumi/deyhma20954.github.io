@@ -66,7 +66,7 @@ nav > a {
 
 #parent2 {
     width: 90%;
-    height: 7000px;
+    height: 7200px;
     border: 8px solid black;
     border-radius: 10px;
     display: flex;
@@ -87,7 +87,7 @@ nav > a {
 }
 
 button {
-    margin-right: 260px;
+    margin-right: auto;
     font-family: vazir;
     border: none;
     border-radius: 20px;
@@ -109,7 +109,7 @@ h1 {
 }
 
 #resetBtn {
-    margin-right: 550px;
+    margin-right: auto;
     margin-bottom: 10px;
 }
 
