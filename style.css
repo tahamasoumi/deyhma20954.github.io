@@ -319,7 +319,7 @@ input {
     }
 
     #main {
-        width: 95%;
+        width: 90%;
         height: auto;
         margin: 20px auto;
         padding: 15px;
@@ -332,7 +332,7 @@ input {
     }
 
     .inputs {
-        width: 95%;
+        width: 90%;
         margin: 10px 0;
     }
 
