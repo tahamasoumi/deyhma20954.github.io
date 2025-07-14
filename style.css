@@ -290,7 +290,7 @@ input {
         display: block;
     }
     button,  #resetBtn {
-        margin-right: 100px;
+        margin-right: 80px;
         padding: 10px 15px;
         font-size: 0.9rem;
         display: block;
@@ -363,7 +363,7 @@ input {
     button, #resetBtn {
         padding: 8px 12px;
         font-size: 1.0rem;
-        margin-right:120px;
+        margin-right:100px;
     }
 
     input {
